@@ -1,0 +1,493 @@
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Windows\system32>color e
+
+C:\Windows\system32>date /t
+Thu 03/25/2021
+
+C:\Windows\system32>edit
+'edit' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Windows\system32>dir /s/w/o/p
+ Volume in drive C is OS
+ Volume Serial Number is A6AA-22E7
+
+ Directory of C:\Windows\system32
+
+[.]
+[..]
+[0409]
+[AdvancedInstallers]
+[am-et]
+[AppLocker]
+[appraiser]
+[ar-SA]
+[bg-BG]
+[Boot]
+[Bthprops]
+[CatRoot]
+[catroot2]
+[cAVS]
+[CodeIntegrity]
+[Com]
+[config]
+[cs-CZ]
+[da-DK]
+[DDFs]
+[de-DE]
+[Dism]
+[downlevel]
+[drivers]
+Press any key to continue . . .
+[DriverState]
+[DriverStore]
+[el-GR]
+[en]
+[en-GB]
+[en-US]
+[es-ES]
+[es-MX]
+[et-EE]
+[ff-Adlm-SN]
+[fi-FI]
+[fr-CA]
+[fr-FR]
+[FxsTmp]
+[GroupPolicy]
+[GroupPolicyUsers]
+[he-IL]
+[hr-HR]
+[hu-HU]
+[Hydrogen]
+[ias]
+[icsxml]
+[IME]
+[inetsrv]
+[InputMethod]
+[Intel]
+[Ipmi]
+[it-IT]
+[ja-jp]
+Press any key to continue . . .
+[Keywords]
+[ko-KR]
+[Licenses]
+[LogFiles]
+[Logs]
+[lt-LT]
+[lv-LV]
+[Macromed]
+[MailContactsCalendarSync]
+[migration]
+[migwiz]
+[MRT]
+[MSDRM]
+[MsDtc]
+[MUI]
+[my-mm]
+[nb-NO]
+[NDF]
+[networklist]
+[nl-NL]
+[oobe]
+[OpenSSH]
+[osa-Osge-001]
+[PerceptionSimulation]
+[pl-PL]
+[PointOfService]
+[Printing_Admin_Scripts]
+[ProximityToast]
+[pt-BR]
+Press any key to continue . . .
+
+C:\Windows\system32>pwd
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Windows\system32>cd .
+
+C:\Windows\system32>cd ..
+
+C:\Windows>cd ..
+
+C:\>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>list
+'list' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>list disk
+'list' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\>cd \xampp
+
+C:\XAMPP>cd \htdoc
+The system cannot find the path specified.
+
+C:\XAMPP>cd \htdocs
+The system cannot find the path specified.
+
+C:\XAMPP>dir
+ Volume in drive C is OS
+ Volume Serial Number is A6AA-22E7
+
+ Directory of C:\XAMPP
+
+07/17/2020  01:36 PM    <DIR>          .
+07/17/2020  01:36 PM    <DIR>          ..
+07/03/2020  10:31 AM             3,228 .env
+07/15/2020  08:24 PM    <DIR>          anonymous
+07/15/2020  08:24 PM    <DIR>          apache
+06/07/2013  06:15 PM               436 apache_start.bat
+06/13/2020  01:56 PM               176 apache_stop.bat
+07/03/2020  12:13 PM             1,583 App.php
+03/30/2013  07:29 PM             9,439 catalina_service.bat
+10/22/2019  08:36 PM             4,478 catalina_start.bat
+10/22/2019  08:35 PM             4,180 catalina_stop.bat
+07/15/2020  08:24 PM    <DIR>          cgi-bin
+07/15/2020  08:24 PM    <DIR>          contrib
+06/13/2020  01:49 PM             2,731 ctlscript.bat
+07/15/2020  08:24 PM    <DIR>          FileZillaFTP
+03/30/2013  07:29 PM                78 filezilla_setup.bat
+06/07/2013  06:15 PM               150 filezilla_start.bat
+06/07/2013  06:15 PM               149 filezilla_stop.bat
+07/27/2020  11:26 AM    <DIR>          htdocs
+07/15/2020  08:25 PM    <DIR>          img
+07/15/2020  08:25 PM    <DIR>          install
+08/27/2019  09:01 PM               299 killprocess.bat
+07/15/2020  08:25 PM    <DIR>          licenses
+07/15/2020  08:25 PM    <DIR>          locale
+06/13/2020  01:49 PM    <DIR>          mailoutput
+07/15/2020  08:25 PM    <DIR>          mailtodisk
+07/15/2020  08:26 PM    <DIR>          MercuryMail
+06/07/2013  06:15 PM               136 mercury_start.bat
+06/07/2013  06:15 PM                60 mercury_stop.bat
+07/15/2020  08:26 PM    <DIR>          mysql
+06/03/2019  06:39 PM               471 mysql_start.bat
+06/13/2020  01:56 PM               256 mysql_stop.bat
+03/13/2017  06:04 PM               824 passwords.txt
+07/15/2020  08:27 PM    <DIR>          perl
+07/15/2020  08:29 PM    <DIR>          php
+07/15/2020  08:29 PM    <DIR>          phpMyAdmin
+06/13/2020  01:55 PM               792 properties.ini
+05/18/2020  01:55 PM             7,499 readme_de.txt
+05/18/2020  01:55 PM             7,369 readme_en.txt
+07/15/2020  08:30 PM    <DIR>          sendmail
+03/30/2013  07:29 PM            60,928 service.exe
+03/30/2013  07:29 PM             1,255 setup_xampp.bat
+07/15/2020  08:30 PM    <DIR>          src
+12/09/2016  01:40 AM             2,052 test_php.bat
+07/15/2020  08:30 PM    <DIR>          tmp
+07/15/2020  08:30 PM    <DIR>          tomcat
+06/13/2020  01:56 PM           227,153 uninstall.dat
+06/13/2020  01:56 PM        12,554,808 uninstall.exe
+07/15/2020  08:30 PM    <DIR>          webalizer
+07/15/2020  08:30 PM    <DIR>          webdav
+06/05/2019  07:10 PM         3,368,448 xampp-control.exe
+06/13/2020  01:56 PM               178 xampp-control.ini
+06/13/2020  01:50 PM             1,084 xampp_shell.bat
+03/30/2013  07:29 PM           118,784 xampp_start.exe
+03/30/2013  07:29 PM           118,784 xampp_stop.exe
+              30 File(s)     16,497,808 bytes
+              25 Dir(s)  126,510,125,056 bytes free
+
+C:\XAMPP>cd ..
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is A6AA-22E7
+
+ Directory of C:\
+
+03/13/2021  02:32 PM            46,332 AsusPTPService.log
+09/28/2019  03:38 PM    <DIR>          eSupport
+09/12/2020  05:02 PM    <DIR>          kingsoft
+07/25/2020  01:47 PM    <DIR>          New folder
+03/03/2021  12:57 PM    <DIR>          Program Files
+03/07/2021  11:49 PM    <DIR>          Program Files (x86)
+04/12/2020  07:08 AM    <DIR>          TinyTake
+04/12/2020  07:08 AM    <DIR>          TinyTake by MangoApps
+04/05/2020  10:43 AM    <DIR>          Users
+03/13/2021  02:31 PM    <DIR>          Windows
+07/17/2020  01:36 PM    <DIR>          XAMPP
+07/25/2020  02:06 PM    <DIR>          XAMPP2
+               1 File(s)         46,332 bytes
+              11 Dir(s)  126,508,011,520 bytes free
+
+C:\>ipconfig
+
+Windows IP Configuration
+
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::2595:b597:a26a:3327%4
+   IPv4 Address. . . . . . . . . . . : 192.168.1.11
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%4
+                                       192.168.1.1
+
+C:\>mkdir time
+
+C:\>time
+The current time is: 22:06:51.23
+Enter the new time:
+
+C:\>Tasklist
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0         20 K
+Registry                       120 Services                   0     98,648 K
+smss.exe                       556 Services                   0        500 K
+csrss.exe                      848 Services                   0      2,536 K
+wininit.exe                    936 Services                   0      3,088 K
+services.exe                   596 Services                   0      8,000 K
+lsass.exe                      788 Services                   0     13,740 K
+svchost.exe                    820 Services                   0      1,276 K
+fontdrvhost.exe               1056 Services                   0      1,156 K
+svchost.exe                   1080 Services                   0     26,280 K
+WUDFHost.exe                  1144 Services                   0      1,940 K
+svchost.exe                   1200 Services                   0     15,332 K
+svchost.exe                   1264 Services                   0      5,476 K
+svchost.exe                   1476 Services                   0      5,748 K
+svchost.exe                   1484 Services                   0      4,812 K
+svchost.exe                   1564 Services                   0      4,232 K
+svchost.exe                   1580 Services                   0     13,420 K
+svchost.exe                   1608 Services                   0      4,216 K
+WUDFHost.exe                  1648 Services                   0     12,272 K
+svchost.exe                   1808 Services                   0      4,732 K
+svchost.exe                   1836 Services                   0      4,044 K
+svchost.exe                   1888 Services                   0      6,680 K
+svchost.exe                   1928 Services                   0      3,680 K
+svchost.exe                   1140 Services                   0      7,980 K
+svchost.exe                   1828 Services                   0      4,804 K
+svchost.exe                   2068 Services                   0      6,852 K
+svchost.exe                   2072 Services                   0      1,836 K
+svchost.exe                   2076 Services                   0      6,504 K
+svchost.exe                   2104 Services                   0     10,200 K
+svchost.exe                   2216 Services                   0      2,840 K
+svchost.exe                   2224 Services                   0      5,076 K
+svchost.exe                   2436 Services                   0      7,000 K
+Memory Compression            2504 Services                   0    242,260 K
+svchost.exe                   2552 Services                   0      6,300 K
+svchost.exe                   2780 Services                   0     18,136 K
+svchost.exe                   2792 Services                   0      9,212 K
+svchost.exe                   2844 Services                   0      6,752 K
+svchost.exe                   3052 Services                   0      2,732 K
+svchost.exe                   3060 Services                   0      4,764 K
+svchost.exe                   3232 Services                   0     12,764 K
+svchost.exe                   3372 Services                   0      7,436 K
+AsusOptimization.exe          3388 Services                   0      3,960 K
+spoolsv.exe                   3540 Services                   0      8,744 K
+svchost.exe                   3696 Services                   0      7,196 K
+svchost.exe                   3732 Services                   0     10,208 K
+svchost.exe                   3876 Services                   0      2,600 K
+svchost.exe                   3812 Services                   0      1,544 K
+svchost.exe                   3824 Services                   0     40,104 K
+svchost.exe                   3856 Services                   0      2,468 K
+svchost.exe                   4072 Services                   0     22,956 K
+svchost.exe                   4092 Services                   0      3,136 K
+svchost.exe                   4076 Services                   0     26,728 K
+svchost.exe                   4004 Services                   0     15,984 K
+AsusSystemAnalysis.exe        3996 Services                   0      9,644 K
+AsusLinkNearExt.exe           4036 Services                   0      1,240 K
+ELANFPService.exe             4040 Services                   0      2,144 K
+AsusSystemDiagnosis.exe       4104 Services                   0      2,196 K
+IntelCpHDCPSvc.exe            4112 Services                   0      1,896 K
+AsusLinkNear.exe              4132 Services                   0      2,432 K
+ICEsoundService64.exe         4144 Services                   0      3,020 K
+AdobeUpdateService.exe        4152 Services                   0      3,584 K
+AsusPTPService.exe            4160 Services                   0      2,292 K
+HWDeviceService64.exe         4172 Services                   0      3,280 K
+AsusSoftwareManager.exe       4188 Services                   0     11,288 K
+AsusLinkRemote.exe            4196 Services                   0      7,824 K
+IntelAudioService.exe         4212 Services                   0      5,324 K
+mfemms.exe                    4236 Services                   0      6,756 K
+AGSService.exe                4276 Services                   0      7,764 K
+AGMService.exe                4296 Services                   0      4,328 K
+svchost.exe                   4316 Services                   0      3,904 K
+svchost.exe                   4372 Services                   0      1,432 K
+RstMwService.exe              4420 Services                   0      1,544 K
+RtkAudUService64.exe          4440 Services                   0      2,768 K
+esif_uf.exe                   4500 Services                   0      1,868 K
+ModuleCoreService.exe         4544 Services                   0     24,840 K
+svchost.exe                   4644 Services                   0      1,720 K
+svchost.exe                   4744 Services                   0     14,628 K
+TeamViewer_Service.exe        4880 Services                   0      5,912 K
+svchost.exe                   5048 Services                   0      1,340 K
+IntelCpHeciSvc.exe            4304 Services                   0      1,784 K
+dasHost.exe                   3716 Services                   0        788 K
+svchost.exe                   5136 Services                   0      8,140 K
+svchost.exe                   5380 Services                   0      4,756 K
+MMSSHOST.exe                  5920 Services                   0     21,128 K
+mfevtps.exe                   5964 Services                   0      7,812 K
+ProtectedModuleHost.exe       6064 Services                   0      5,884 K
+unsecapp.exe                  6320 Services                   0      4,184 K
+svchost.exe                   6368 Services                   0      3,984 K
+svchost.exe                   6860 Services                   0      3,368 K
+svchost.exe                   7484 Services                   0      6,340 K
+taskhostw.exe                 7968 Services                   0     30,832 K
+svchost.exe                   8068 Services                   0      2,900 K
+svchost.exe                   4768 Services                   0      2,744 K
+RtkAudUService64.exe          7780 Services                   0      2,100 K
+svchost.exe                   3492 Services                   0      6,684 K
+dllhost.exe                   7792 Services                   0      6,140 K
+WmiPrvSE.exe                  4568 Services                   0     11,396 K
+svchost.exe                   8392 Services                   0     14,236 K
+svchost.exe                   8444 Services                   0      3,220 K
+svchost.exe                   9000 Services                   0     12,316 K
+GoogleCrashHandler.exe        9396 Services                   0      1,400 K
+GoogleCrashHandler64.exe      9420 Services                   0        692 K
+svchost.exe                  10944 Services                   0      4,540 K
+SecurityHealthService.exe     6276 Services                   0     11,768 K
+mcapexe.exe                  11984 Services                   0        976 K
+svchost.exe                  11684 Services                   0      6,960 K
+McCSPServiceHost.exe         11664 Services                   0     14,504 K
+svchost.exe                  11388 Services                   0     14,476 K
+svchost.exe                  13700 Services                   0     11,460 K
+svchost.exe                  13804 Services                   0    100,516 K
+svchost.exe                  13596 Services                   0     20,220 K
+svchost.exe                   1984 Services                   0      6,724 K
+SgrmBroker.exe               10576 Services                   0      4,564 K
+svchost.exe                   9496 Services                   0      5,192 K
+svchost.exe                   6916 Services                   0     12,968 K
+svchost.exe                  13884 Services                   0      6,360 K
+OneApp.IGCC.WinService.ex    13608 Services                   0      5,576 K
+igfxCUIService.exe           10940 Services                   0      3,256 K
+McSmtFwk.exe                 11220 Services                   0         68 K
+wlanext.exe                  15072 Services                   0      2,724 K
+conhost.exe                    792 Services                   0      1,268 K
+Intel_PIE_Service.exe         9156 Services                   0      2,592 K
+jhi_service.exe               1020 Services                   0      1,208 K
+ibtsiva.exe                  10284 Services                   0      2,272 K
+svchost.exe                  10552 Services                   0      2,360 K
+McCBEntAndInstru.exe          6036 Services                   0         64 K
+conhost.exe                  10028 Services                   0      1,384 K
+McUICnt.exe                  10300 Services                   0      3,948 K
+svchost.exe                  15636 Services                   0      2,636 K
+svchost.exe                  15660 Services                   0      6,484 K
+MsMpEng.exe                  14632 Services                   0    265,468 K
+NisSrv.exe                    8472 Services                   0      7,696 K
+svchost.exe                  10040 Services                   0      8,460 K
+OfficeClickToRun.exe         14460 Services                   0     40,160 K
+AppVShNotify.exe             11708 Services                   0      5,536 K
+SearchIndexer.exe            14908 Services                   0     52,772 K
+usocoreworker.exe            13108 Services                   0     23,724 K
+csrss.exe                     8304 Console                   15      5,508 K
+winlogon.exe                 17096 Console                   15      8,812 K
+fontdrvhost.exe               7432 Console                   15     20,596 K
+dwm.exe                       1868 Console                   15     76,932 K
+svchost.exe                  18992 Services                   0      5,848 K
+AsusOptimizationStartupTa     9664 Console                   15     13,196 K
+sihost.exe                   11172 Console                   15     24,724 K
+svchost.exe                   7796 Console                   15     22,712 K
+svchost.exe                   1624 Console                   15     33,860 K
+igfxEM.exe                   18708 Console                   15     21,784 K
+explorer.exe                 10820 Console                   15    135,584 K
+SMΔRTP.exe                    7652 Console                   15     15,988 K
+taskhostw.exe                 6588 Console                   15     18,428 K
+svchost.exe                    948 Console                   15     16,780 K
+StartMenuExperienceHost.e     8988 Console                   15     75,212 K
+RuntimeBroker.exe            18324 Console                   15     25,452 K
+ctfmon.exe                    3212 Console                   15     13,620 K
+SearchUI.exe                 16492 Console                   15    198,792 K
+RuntimeBroker.exe            16576 Console                   15     51,868 K
+ShellExperienceHost.exe      12792 Console                   15     56,036 K
+YourPhone.exe                13656 Console                   15        128 K
+SettingSyncHost.exe           7324 Console                   15      6,388 K
+RuntimeBroker.exe             8360 Console                   15     23,196 K
+SmadavProtect64.exe          11784 Console                   15        948 K
+RuntimeBroker.exe            15080 Console                   15     13,136 K
+RuntimeBroker.exe            15988 Console                   15     20,636 K
+SecurityHealthSystray.exe    12396 Console                   15      8,496 K
+dllhost.exe                  13748 Console                   15     11,392 K
+Snap Camera.exe              17620 Console                   15    276,908 K
+svchost.exe                  15364 Services                   0      8,796 K
+svchost.exe                  18464 Services                   0     13,192 K
+svchost.exe                  19356 Services                   0      4,756 K
+RtkAudUService64.exe         17016 Console                   15      2,888 K
+AppleMobileDeviceProcess.    11084 Console                   15     11,108 K
+Spotify.exe                   4204 Console                   15     82,312 K
+Spotify.exe                   8544 Console                   15     14,284 K
+Creative Cloud.exe           15028 Console                   15     76,648 K
+Spotify.exe                   9280 Console                   15     36,924 K
+Spotify.exe                   5064 Console                   15     27,512 K
+chrome.exe                   15912 Console                   15    126,520 K
+chrome.exe                    6052 Console                   15      6,804 K
+AsusSoftwareManagerAgent.     6548 Console                   15     24,600 K
+chrome.exe                   18264 Console                   15    151,584 K
+chrome.exe                   13252 Console                   15     34,500 K
+chrome.exe                      88 Console                   15     15,592 K
+Spotify.exe                  12824 Console                   15     63,164 K
+Adobe CEF Helper.exe          9948 Console                   15     59,188 K
+taskhostw.exe                 8820 Console                   15      1,020 K
+chrome.exe                    5752 Console                   15     62,452 K
+svchost.exe                   4400 Console                   15     21,508 K
+ModuleCoreService.exe        17048 Console                   15     13,484 K
+conhost.exe                  11480 Console                   15      6,116 K
+AsusOSD.exe                   8612 Console                   15      6,312 K
+chrome.exe                   19284 Console                   15     15,936 K
+chrome.exe                   16452 Console                   15     64,980 K
+ApplicationFrameHost.exe      5684 Console                   15     32,508 K
+WinStore.App.exe              7244 Console                   15        164 K
+RuntimeBroker.exe            15720 Console                   15     20,496 K
+SystemSettings.exe           14212 Console                   15        208 K
+OneDrive.exe                  8548 Console                   15      8,060 K
+Video.UI.exe                 10088 Console                   15        236 K
+RuntimeBroker.exe             8768 Console                   15      7,268 K
+McUICnt.exe                   9864 Console                   15      6,044 K
+AdobeIPCBroker.exe           13904 Console                   15      8,796 K
+chrome.exe                   18272 Console                   15     86,416 K
+chrome.exe                   12408 Console                   15     20,876 K
+cmd.exe                      17672 Console                   15      4,216 K
+conhost.exe                  11848 Console                   15     19,952 K
+wuauclt.exe                  13660 Services                   0     43,404 K
+TrustedInstaller.exe         16060 Services                   0      6,852 K
+TiWorker.exe                  7500 Services                   0     10,644 K
+audiodg.exe                   6920 Services                   0     15,732 K
+smartscreen.exe              15324 Console                   15     23,228 K
+cmd.exe                      11152 Console                   15      3,740 K
+conhost.exe                   4992 Console                   15     19,276 K
+WindowsUpdateBox.exe          4596 Services                   0      6,700 K
+SetupHost.exe                 5252 Services                   0    108,376 K
+WmiPrvSE.exe                 18064 Services                   0     10,288 K
+svchost.exe                   5212 Services                   0     16,332 K
+svchost.exe                  12180 Services                   0     12,380 K
+tasklist.exe                  3108 Console                   15      8,480 K
+
+C:\>mkdir magang
+
+C:\>cd \magang
+
+C:\magang>copy con env.txt
+saya sedang mengerjakan test magang^Z
+        1 file(s) copied.
+
+C:\magang>copy con env.txt
+08818664144^Z
+Overwrite env.txt? (Yes/No/All): y
+        1 file(s) copied.
+
+C:\magang>type env.txt
+08818664144
+C:\magang>
+
+C:\magang>
